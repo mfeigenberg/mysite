@@ -4,7 +4,7 @@
 
 ## Contents
 ### Artworks
-##### * **looking up, looking out**
+##### - **looking up, looking out**
 An on-going photographic project documenting the sky at the beginning of my day.
 
 ##### * **hold on / connect**
