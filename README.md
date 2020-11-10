@@ -1,6 +1,10 @@
 # Meryl Feigenberg
 
+<<<<<<< HEAD
 *_This is a working site still in process._
+=======
+*_This is a working site still in progress._
+>>>>>>> 3f81845e15f0582b8d9fcf22e6b63dd048862d24
 
 ##### **Start at home.html**
 
