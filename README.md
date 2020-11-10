@@ -1,6 +1,6 @@
 # Meryl Feigenberg
 
-*_This is a working site still in process._
+*_This is a working site still in progress._
 
 ##### **Start at home.html**
 
