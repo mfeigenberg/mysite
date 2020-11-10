@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="index.css">
+    <title>Meryl Feigenberg</title>
+  </head>
+  <body>
+    <div class="signature">
+      <a href="index.html">
+        <h1><img src="images/Meryl Feigenberg.jpg" alt="Meryl Feigenberg" width="300" height="75" class="center"></h1>
+      </a>
+    </div>
+    <div id="carousel">
+      <div class="slide">
+        <img class=landscapes src="images/landscapes/01.jpg" alt="landscape found_01" onclick="openModal();currentSlide(1)"/>
+      </div>
+      <div class="slide">
+        <img class=landscapes src="images/landscapes/02.jpg" alt="landscape found_02"/>
+      </div>
+      <div class="slide">
+        <img class=landscapes src="images/landscapes/03.jpg" alt="landscape found_03"/>
+      </div>
+      <div class="slide">
+        <img class=landscapes src="images/landscapes/04.jpg" alt="landscape found_04"/>
+      </div>
+      <div class="slide">
+        <img class=landscapes src="images/landscapes/05.jpg" alt="landscape found_05"/>
+      </div>
+    </div>
+
+    <div id="myModal" class="modal">
+      <span class="close cursor" onclick="closeModal()">&times;</span>
+      <div class="modal-content">
+
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    
+    <div class="footer">
+      <p>&#169; 2020 Meryl Feigenberg</p>
+    </div>
+  </body>
+</html>
