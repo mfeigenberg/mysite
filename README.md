@@ -2,7 +2,7 @@
 
 *_This is a working site still in process._
 
-## Start on home.html
+##### **Start at home.html**
 
 ## Contents
 ### Artworks
