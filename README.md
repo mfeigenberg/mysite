@@ -4,19 +4,19 @@
 
 ## Contents
 ### Artworks
-##### - **looking up, looking out**
+##### **. looking up, looking out**
 An on-going photographic project documenting the sky at the beginning of my day.
 
-##### * **hold on / connect**
+##### **. hold on / connect**
 A series of videos holding and touch rocks.
 
-##### * **writing**
+##### **. writing**
 An on-going project in which free-thought writing layers on top of itself over days and weeks, leading to ineligible words, blended thoughts and blended graphite.
 
-##### * **portraits of remains**
+##### **. portraits of remains**
 Photographic portraits of remnants discovered and recovered from the street. Bits of concrete and asphalt brought into the studio to memorialize forgotten structures.
 
-##### * **landscapes found**
+##### **. landscapes found**
 Found bits of film strips scanned and enlarged, finding otherworldly terrains in the silver gelatin crystals.
 
 
