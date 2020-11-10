@@ -5,7 +5,7 @@
 ## Contents
 ### Artworks
 #### **. looking up, looking out**
-  An on-going photographic project documenting the sky at the beginning of my day.
+An on-going photographic project documenting the sky at the beginning of my day.
 
 #### **. hold on / connect**
 A series of videos holding and touch rocks.
