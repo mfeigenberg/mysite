@@ -1,0 +1,328 @@
+.home {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  margin: auto;
+  padding-top: 300px;
+  letter-spacing: 20px;
+  opacity: 50%;
+}
+
+#birds {
+  width: 100%;
+  height: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.btn-group {
+  text-align: center;
+}
+
+.btn {
+  background-color: white;
+  outline: none;
+  border: none;
+  box-sizing: none;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.dropbtn {
+  background-color: white;
+  color: black;
+  font-size: 13px;
+  border: none;
+  padding-bottom: 10px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  background-color: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  opacity: 50%;
+  min-width: 1700px;
+  z-index: 1;
+  font-size: 13px;
+  margin-left: -765px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px;
+  text-decoration: none;
+  display: block;
+  font-size: 12px;
+  font-family: sans-serif;
+  text-align: center;
+  text-indent: -100px;
+  background-position: -100px;
+}
+
+.dropdown-content a:hover {
+  background-color: white;
+  color: #727272;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  text-align: left;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: white;
+}
+
+button:hover {
+  color: #727272;
+}
+
+a:hover {
+  color: #727272;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: #8E8E8E;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.footer-scroll {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #8E8E8E;
+}
+
+.row {
+  padding-left: 20px;
+}
+
+.row > .column {
+  padding: 0;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 50px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: white;
+}
+
+.modal-content {
+  position: relative;
+  background-color: white;
+  margin: auto;
+  padding: 0;
+  width: 100%;
+  max-width: 1000px;
+  border: 0;
+}
+
+.close {
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.close:hover,
+.close:focus {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.mySlides {
+  display: none;
+}
+
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  opacity: 50%;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover,
+.next:hover {
+  background-color: none;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.caption-container {
+  text-align: center;
+  background-color: white;
+  padding: 2px 16px;
+  color: #727272;
+  font-size: 13px;
+  image: hide;
+}
+
+img.demo {
+  opacity: 0;
+}
+
+.active,
+.demo:hover {
+  opacity: 0;
+}
+
+img.hover-shadow {
+  transition: 0;
+}
+
+.hover-shadow:hover {
+  box-shadow: none;
+}
+
+.statement-sky {
+  text-align: left;
+  padding-left: 100px;
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+.statement-rocks {
+  margin-left: 420px;
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+.statement-writing {
+  margin-left: 30px;
+  font-weight: lighter;
+  font-size: 14px;
+  z-index: 1;
+}
+
+.statement-portraits {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+.about_me {
+  text-align: center;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+.contact {
+  text-align: center;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+.videos {
+  margin: 0 auto; width: 650px;
+}
+
+.cv {
+  font-size: 14px;
+  font-family: sans-serif;
+  padding-left: 200px;
+  padding-right: 500px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  font-weight: lighter;
+  line-height: 1.6;
+}
+
+#carousel {
+    width: 100%;
+    height: 150px;
+    overflow: visible;
+    white-space:nowrap;
+    padding-bottom: 650px;
+}
+
+#carousel .slide {
+    display: inline-block;
+}
+
+.writing {
+  height: 600px;
+  width: 400px;
+}
+
+.landscapes {
+  height: 600px;
+  width: 800px;
+}
+
+.portraits {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 600px;
+}
+
+.install {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 600px;
+}
